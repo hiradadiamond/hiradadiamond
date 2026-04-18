@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Hira 👋
 
-<!--
-**hiradadiamond/hiradadiamond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Engineer | Kafka | Event-Driven Architecture | Fintech
 
-Here are some ideas to get you started:
+🔗 LinkedIn: https://www.linkedin.com/in/kmhira/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- Java, Spring Boot
+- Kafka, Event-driven systems
+- Microservices Architecture
+- React / Angular
+- Azure Cloud
+
+## 🧠 About Me
+I have 5+ years of experience building scalable fintech systems using event-driven architecture. I specialize in debugging complex distributed systems and modernizing legacy applications into microservices.
